@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'mirror wealth' | rot13
+echo 'mirror wealth' 'N-ZA-Mn-za-m' | rot13
